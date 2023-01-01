@@ -25,8 +25,8 @@
         <img width="80%" src="https://user-images.githubusercontent.com/89695635/210171092-d8644600-2597-4bec-9810-e82e5ae8d6e0.png"/>
         <br/>
         <br/>
-        <p> Depois coloque os links que você deseja no codigo: </p>
-        <img width="80%" src="https://user-images.githubusercontent.com/89695635/210171098-e4e69134-d63c-453a-a397-63a0b9eec1f3.png"/>
+        <p> Depois coloque os links que você deseja na sessão abrir navegador: </p>
+        <img width="80%" src="https://user-images.githubusercontent.com/89695635/210172271-409ead88-aad7-4307-bf1f-a14e0e40723b.png"/>
         <br/>
         <br/>
         <p> Agora quando executar o codigo um pop-up aparecera, de ''ok'' e não faça nada ! : </p><br>
@@ -38,7 +38,7 @@
         <br/>
         <br/>
         <p> Pronto a automação foi feita : </p><br>
-        <video src="https://user-images.githubusercontent.com/89695635/210172000-1142e2c9-cf02-4448-a0cd-f8e186f688e8.mp4
+        <video src="https://user-images.githubusercontent.com/89695635/210172379-f0b01d61-0069-4ea6-9686-ba6685243a7b.mp4
 " controls="controls" style="max-width: 730px;">
 </video>
         <br/>
