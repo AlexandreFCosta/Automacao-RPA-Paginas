@@ -1,5 +1,5 @@
 <div align=center>
-    <h1> Automação RPA para abrir paginas com Pyautogui 🤖 🐍
+    <h1> Automação RPA para abrir paginas com Pyautogui 🤖 
   </div>
   
   <h3> Necessário:<br><br>
